@@ -93,7 +93,7 @@ superar o clique. Áreas comerciais e de atendimento clicam mais; a equipe de se
 ## Dashboard (Power BI)
 
 Visão geral da campanha: funil (enviados, entregues, abertos, cliques, dados informados, reportes),
-evolução por onda, comparação por área e modelo, tempo até o clique e reincidência.
+evolução por onda, comparação por área e modelo.
 
 
 ![Visão geral da campanha](docs/visao-geral.png)
