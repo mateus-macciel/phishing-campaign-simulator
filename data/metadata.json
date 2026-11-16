@@ -1,0 +1,12 @@
+{
+  "synthetic": true,
+  "note": "Simulação estatística: nenhum e-mail foi enviado e nenhuma pessoa real está envolvida.",
+  "seed": 42,
+  "employees": 600,
+  "rows": {
+    "employees": 600,
+    "campaigns": 3,
+    "templates": 3,
+    "events": 1800
+  }
+}

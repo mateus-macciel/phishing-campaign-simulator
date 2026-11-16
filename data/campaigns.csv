@@ -1,0 +1,4 @@
+campaign_id,name,template_id,send_date,audience
+C01,Onda 1: Reembolso,T01,2026-09-08,600
+C02,Onda 2: Senha,T02,2026-10-06,600
+C03,Onda 3: Documento,T03,2026-11-03,600

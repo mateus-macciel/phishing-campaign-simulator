@@ -1,0 +1,601 @@
+employee_id,department,seniority,work_mode,tenure_months
+E0001,Comercial,Pleno,Híbrido,53
+E0002,Operações,Sênior,Híbrido,73
+E0003,Comercial,Gestão,Híbrido,19
+E0004,Atendimento,Sênior,Híbrido,75
+E0005,Tecnologia,Gestão,Presencial,111
+E0006,Risco e Compliance,Sênior,Presencial,17
+E0007,Comercial,Sênior,Híbrido,39
+E0008,Comercial,Júnior,Híbrido,83
+E0009,Tecnologia,Sênior,Presencial,74
+E0010,Operações,Pleno,Híbrido,81
+E0011,Financeiro,Pleno,Híbrido,67
+E0012,RH,Pleno,Híbrido,82
+E0013,Atendimento,Gestão,Híbrido,73
+E0014,Comercial,Gestão,Híbrido,9
+E0015,Operações,Júnior,Presencial,90
+E0016,Tecnologia,Sênior,Híbrido,54
+E0017,Operações,Sênior,Híbrido,7
+E0018,Tecnologia,Júnior,Híbrido,49
+E0019,Comercial,Júnior,Híbrido,52
+E0020,Atendimento,Júnior,Presencial,11
+E0021,Atendimento,Sênior,Presencial,119
+E0022,Financeiro,Pleno,Presencial,27
+E0023,Risco e Compliance,Gestão,Remoto,40
+E0024,RH,Pleno,Híbrido,53
+E0025,Comercial,Gestão,Presencial,100
+E0026,Tecnologia,Pleno,Remoto,89
+E0027,Operações,Sênior,Híbrido,92
+E0028,Tecnologia,Júnior,Híbrido,29
+E0029,Tecnologia,Pleno,Remoto,101
+E0030,Atendimento,Sênior,Presencial,99
+E0031,Atendimento,Gestão,Presencial,56
+E0032,Risco e Compliance,Sênior,Híbrido,65
+E0033,Financeiro,Júnior,Presencial,5
+E0034,Financeiro,Pleno,Híbrido,91
+E0035,Operações,Júnior,Presencial,115
+E0036,Tecnologia,Júnior,Presencial,57
+E0037,Tecnologia,Pleno,Presencial,65
+E0038,Operações,Sênior,Híbrido,60
+E0039,Tecnologia,Sênior,Presencial,10
+E0040,Atendimento,Sênior,Presencial,74
+E0041,Operações,Sênior,Remoto,86
+E0042,Comercial,Sênior,Híbrido,111
+E0043,Atendimento,Júnior,Híbrido,111
+E0044,Financeiro,Júnior,Presencial,59
+E0045,Comercial,Pleno,Híbrido,115
+E0046,Comercial,Sênior,Presencial,63
+E0047,Financeiro,Júnior,Híbrido,77
+E0048,Segurança da Informação,Pleno,Presencial,72
+E0049,Atendimento,Pleno,Remoto,119
+E0050,Tecnologia,Júnior,Remoto,88
+E0051,Tecnologia,Pleno,Presencial,15
+E0052,Tecnologia,Sênior,Presencial,9
+E0053,Comercial,Pleno,Presencial,49
+E0054,Atendimento,Júnior,Híbrido,62
+E0055,Atendimento,Sênior,Presencial,80
+E0056,Comercial,Júnior,Remoto,58
+E0057,Operações,Sênior,Híbrido,62
+E0058,Operações,Júnior,Híbrido,110
+E0059,Tecnologia,Pleno,Híbrido,40
+E0060,Tecnologia,Pleno,Remoto,59
+E0061,Atendimento,Júnior,Presencial,67
+E0062,Operações,Sênior,Híbrido,56
+E0063,Operações,Júnior,Híbrido,116
+E0064,Comercial,Júnior,Remoto,115
+E0065,Atendimento,Júnior,Híbrido,62
+E0066,Operações,Sênior,Híbrido,54
+E0067,Operações,Sênior,Presencial,71
+E0068,Financeiro,Gestão,Remoto,22
+E0069,Tecnologia,Júnior,Híbrido,51
+E0070,Operações,Pleno,Híbrido,26
+E0071,Tecnologia,Júnior,Remoto,18
+E0072,Financeiro,Pleno,Híbrido,12
+E0073,Comercial,Gestão,Híbrido,70
+E0074,Tecnologia,Sênior,Híbrido,1
+E0075,Tecnologia,Pleno,Presencial,77
+E0076,Segurança da Informação,Pleno,Híbrido,52
+E0077,Segurança da Informação,Gestão,Presencial,44
+E0078,Atendimento,Pleno,Presencial,92
+E0079,Operações,Júnior,Remoto,65
+E0080,Comercial,Pleno,Híbrido,88
+E0081,Atendimento,Júnior,Híbrido,85
+E0082,Financeiro,Júnior,Híbrido,4
+E0083,Comercial,Júnior,Híbrido,26
+E0084,Tecnologia,Pleno,Híbrido,68
+E0085,Tecnologia,Pleno,Remoto,117
+E0086,Tecnologia,Júnior,Remoto,19
+E0087,Atendimento,Pleno,Híbrido,13
+E0088,Operações,Gestão,Híbrido,112
+E0089,Tecnologia,Sênior,Híbrido,116
+E0090,Operações,Pleno,Híbrido,20
+E0091,Tecnologia,Júnior,Híbrido,48
+E0092,Atendimento,Sênior,Híbrido,75
+E0093,Operações,Júnior,Híbrido,24
+E0094,Financeiro,Júnior,Híbrido,39
+E0095,Financeiro,Gestão,Híbrido,48
+E0096,Atendimento,Pleno,Híbrido,77
+E0097,Financeiro,Sênior,Presencial,37
+E0098,Tecnologia,Pleno,Presencial,50
+E0099,Tecnologia,Pleno,Híbrido,35
+E0100,Risco e Compliance,Júnior,Híbrido,91
+E0101,RH,Júnior,Presencial,19
+E0102,Atendimento,Júnior,Híbrido,28
+E0103,Segurança da Informação,Júnior,Híbrido,30
+E0104,Risco e Compliance,Sênior,Presencial,108
+E0105,Comercial,Júnior,Híbrido,113
+E0106,Atendimento,Pleno,Remoto,60
+E0107,Operações,Sênior,Híbrido,19
+E0108,Segurança da Informação,Sênior,Híbrido,90
+E0109,Tecnologia,Pleno,Presencial,59
+E0110,RH,Pleno,Remoto,102
+E0111,Operações,Gestão,Híbrido,43
+E0112,Tecnologia,Pleno,Remoto,119
+E0113,Financeiro,Sênior,Híbrido,97
+E0114,Operações,Gestão,Presencial,27
+E0115,Tecnologia,Sênior,Presencial,87
+E0116,Comercial,Júnior,Híbrido,35
+E0117,Atendimento,Pleno,Híbrido,42
+E0118,Atendimento,Júnior,Presencial,30
+E0119,Operações,Pleno,Híbrido,82
+E0120,Atendimento,Gestão,Remoto,32
+E0121,Operações,Pleno,Híbrido,77
+E0122,Atendimento,Pleno,Híbrido,70
+E0123,Tecnologia,Júnior,Presencial,90
+E0124,Financeiro,Gestão,Híbrido,119
+E0125,Tecnologia,Júnior,Híbrido,2
+E0126,Operações,Júnior,Remoto,118
+E0127,Financeiro,Júnior,Híbrido,14
+E0128,Tecnologia,Júnior,Híbrido,63
+E0129,Tecnologia,Pleno,Presencial,41
+E0130,Operações,Pleno,Presencial,77
+E0131,Tecnologia,Júnior,Híbrido,86
+E0132,RH,Júnior,Híbrido,103
+E0133,Operações,Júnior,Híbrido,48
+E0134,Financeiro,Pleno,Remoto,112
+E0135,Operações,Júnior,Remoto,39
+E0136,Tecnologia,Pleno,Remoto,25
+E0137,Risco e Compliance,Júnior,Presencial,46
+E0138,Operações,Júnior,Híbrido,63
+E0139,Comercial,Pleno,Remoto,80
+E0140,Tecnologia,Pleno,Híbrido,100
+E0141,Operações,Júnior,Presencial,27
+E0142,Operações,Júnior,Híbrido,37
+E0143,Risco e Compliance,Sênior,Híbrido,112
+E0144,Operações,Júnior,Híbrido,53
+E0145,Operações,Pleno,Remoto,29
+E0146,Segurança da Informação,Pleno,Híbrido,118
+E0147,Financeiro,Júnior,Híbrido,54
+E0148,Operações,Pleno,Híbrido,118
+E0149,Operações,Sênior,Híbrido,110
+E0150,Tecnologia,Sênior,Presencial,108
+E0151,Comercial,Júnior,Híbrido,70
+E0152,RH,Júnior,Híbrido,96
+E0153,Tecnologia,Júnior,Presencial,115
+E0154,Operações,Pleno,Híbrido,33
+E0155,Tecnologia,Pleno,Remoto,5
+E0156,Atendimento,Júnior,Presencial,39
+E0157,Segurança da Informação,Júnior,Híbrido,76
+E0158,Atendimento,Gestão,Híbrido,66
+E0159,Atendimento,Júnior,Híbrido,10
+E0160,Comercial,Pleno,Presencial,67
+E0161,Tecnologia,Sênior,Híbrido,21
+E0162,RH,Júnior,Híbrido,61
+E0163,Tecnologia,Júnior,Híbrido,69
+E0164,Tecnologia,Júnior,Presencial,76
+E0165,Operações,Gestão,Híbrido,50
+E0166,Financeiro,Júnior,Híbrido,49
+E0167,Comercial,Júnior,Presencial,81
+E0168,Comercial,Júnior,Presencial,90
+E0169,Financeiro,Júnior,Presencial,97
+E0170,Risco e Compliance,Pleno,Híbrido,40
+E0171,Segurança da Informação,Júnior,Presencial,51
+E0172,Operações,Pleno,Remoto,40
+E0173,Segurança da Informação,Pleno,Híbrido,63
+E0174,Risco e Compliance,Sênior,Híbrido,16
+E0175,Tecnologia,Júnior,Remoto,52
+E0176,Tecnologia,Sênior,Presencial,23
+E0177,Operações,Pleno,Híbrido,64
+E0178,Risco e Compliance,Júnior,Remoto,102
+E0179,RH,Sênior,Híbrido,118
+E0180,Atendimento,Sênior,Híbrido,54
+E0181,RH,Júnior,Híbrido,7
+E0182,RH,Gestão,Presencial,28
+E0183,Operações,Pleno,Híbrido,13
+E0184,Financeiro,Pleno,Remoto,91
+E0185,Comercial,Gestão,Remoto,118
+E0186,Atendimento,Pleno,Presencial,66
+E0187,Financeiro,Sênior,Híbrido,22
+E0188,Tecnologia,Júnior,Híbrido,3
+E0189,Atendimento,Sênior,Remoto,117
+E0190,Segurança da Informação,Pleno,Presencial,38
+E0191,Risco e Compliance,Júnior,Remoto,14
+E0192,Segurança da Informação,Pleno,Híbrido,22
+E0193,Tecnologia,Júnior,Presencial,31
+E0194,Comercial,Júnior,Presencial,79
+E0195,Tecnologia,Júnior,Híbrido,107
+E0196,Tecnologia,Júnior,Presencial,33
+E0197,Operações,Júnior,Híbrido,82
+E0198,Jurídico,Júnior,Remoto,8
+E0199,Tecnologia,Sênior,Híbrido,2
+E0200,Financeiro,Sênior,Híbrido,7
+E0201,Comercial,Sênior,Híbrido,110
+E0202,Risco e Compliance,Júnior,Presencial,70
+E0203,Operações,Sênior,Remoto,96
+E0204,Tecnologia,Pleno,Híbrido,3
+E0205,Tecnologia,Júnior,Presencial,3
+E0206,Tecnologia,Júnior,Presencial,102
+E0207,Tecnologia,Pleno,Remoto,13
+E0208,Atendimento,Júnior,Presencial,19
+E0209,Tecnologia,Pleno,Remoto,62
+E0210,Operações,Gestão,Híbrido,73
+E0211,Atendimento,Júnior,Híbrido,28
+E0212,Operações,Júnior,Remoto,53
+E0213,Tecnologia,Gestão,Híbrido,81
+E0214,Comercial,Pleno,Remoto,53
+E0215,Atendimento,Júnior,Presencial,46
+E0216,Atendimento,Sênior,Híbrido,9
+E0217,Tecnologia,Sênior,Híbrido,54
+E0218,Tecnologia,Pleno,Híbrido,96
+E0219,RH,Pleno,Remoto,75
+E0220,Financeiro,Júnior,Remoto,107
+E0221,Financeiro,Júnior,Híbrido,16
+E0222,Operações,Pleno,Híbrido,2
+E0223,Atendimento,Júnior,Híbrido,66
+E0224,Risco e Compliance,Pleno,Híbrido,22
+E0225,Segurança da Informação,Sênior,Híbrido,71
+E0226,RH,Júnior,Híbrido,108
+E0227,Tecnologia,Pleno,Presencial,41
+E0228,Operações,Júnior,Presencial,66
+E0229,Atendimento,Sênior,Híbrido,82
+E0230,Tecnologia,Júnior,Híbrido,18
+E0231,Tecnologia,Pleno,Remoto,107
+E0232,Financeiro,Pleno,Híbrido,25
+E0233,Risco e Compliance,Pleno,Presencial,97
+E0234,Operações,Pleno,Presencial,79
+E0235,Risco e Compliance,Sênior,Presencial,17
+E0236,Comercial,Pleno,Remoto,87
+E0237,Operações,Sênior,Presencial,24
+E0238,Comercial,Gestão,Híbrido,72
+E0239,Tecnologia,Pleno,Remoto,115
+E0240,Tecnologia,Pleno,Remoto,114
+E0241,Comercial,Júnior,Presencial,104
+E0242,Comercial,Sênior,Presencial,59
+E0243,Tecnologia,Pleno,Presencial,67
+E0244,Operações,Pleno,Presencial,36
+E0245,Atendimento,Júnior,Presencial,110
+E0246,Jurídico,Sênior,Híbrido,57
+E0247,Atendimento,Pleno,Remoto,92
+E0248,Financeiro,Pleno,Híbrido,43
+E0249,Financeiro,Júnior,Híbrido,89
+E0250,Operações,Gestão,Presencial,27
+E0251,Atendimento,Júnior,Híbrido,88
+E0252,Jurídico,Júnior,Híbrido,6
+E0253,Operações,Sênior,Remoto,13
+E0254,Segurança da Informação,Gestão,Remoto,42
+E0255,Tecnologia,Júnior,Híbrido,58
+E0256,Atendimento,Pleno,Presencial,85
+E0257,Comercial,Sênior,Presencial,43
+E0258,Tecnologia,Sênior,Híbrido,3
+E0259,Tecnologia,Pleno,Remoto,39
+E0260,Operações,Pleno,Híbrido,53
+E0261,Tecnologia,Sênior,Híbrido,65
+E0262,Comercial,Sênior,Híbrido,77
+E0263,Financeiro,Sênior,Presencial,30
+E0264,Tecnologia,Pleno,Híbrido,73
+E0265,RH,Júnior,Híbrido,76
+E0266,Tecnologia,Gestão,Híbrido,93
+E0267,Segurança da Informação,Sênior,Híbrido,63
+E0268,Tecnologia,Sênior,Presencial,97
+E0269,Tecnologia,Júnior,Híbrido,27
+E0270,Tecnologia,Júnior,Presencial,85
+E0271,Tecnologia,Sênior,Remoto,6
+E0272,Tecnologia,Júnior,Presencial,13
+E0273,Tecnologia,Gestão,Presencial,103
+E0274,Operações,Pleno,Híbrido,57
+E0275,Atendimento,Sênior,Híbrido,74
+E0276,Financeiro,Sênior,Híbrido,72
+E0277,Financeiro,Pleno,Híbrido,83
+E0278,Operações,Júnior,Remoto,30
+E0279,Jurídico,Pleno,Híbrido,22
+E0280,Comercial,Pleno,Híbrido,6
+E0281,Tecnologia,Pleno,Híbrido,103
+E0282,Tecnologia,Pleno,Presencial,27
+E0283,Tecnologia,Gestão,Híbrido,69
+E0284,Segurança da Informação,Pleno,Presencial,55
+E0285,Operações,Júnior,Híbrido,20
+E0286,Financeiro,Pleno,Presencial,50
+E0287,Tecnologia,Pleno,Remoto,10
+E0288,Financeiro,Júnior,Híbrido,22
+E0289,Operações,Júnior,Remoto,17
+E0290,Tecnologia,Pleno,Híbrido,99
+E0291,Comercial,Júnior,Presencial,68
+E0292,Tecnologia,Gestão,Híbrido,111
+E0293,RH,Júnior,Híbrido,52
+E0294,Tecnologia,Júnior,Híbrido,24
+E0295,Comercial,Sênior,Híbrido,73
+E0296,RH,Sênior,Híbrido,111
+E0297,Risco e Compliance,Júnior,Remoto,64
+E0298,Comercial,Júnior,Híbrido,3
+E0299,Comercial,Júnior,Híbrido,37
+E0300,Atendimento,Pleno,Híbrido,111
+E0301,Comercial,Pleno,Híbrido,62
+E0302,Tecnologia,Júnior,Remoto,114
+E0303,Operações,Júnior,Híbrido,61
+E0304,Operações,Pleno,Híbrido,2
+E0305,Comercial,Gestão,Híbrido,104
+E0306,Operações,Pleno,Híbrido,91
+E0307,Financeiro,Pleno,Híbrido,86
+E0308,Atendimento,Júnior,Híbrido,116
+E0309,Segurança da Informação,Júnior,Presencial,24
+E0310,Tecnologia,Júnior,Híbrido,108
+E0311,Operações,Sênior,Presencial,28
+E0312,Financeiro,Sênior,Presencial,116
+E0313,Tecnologia,Gestão,Híbrido,23
+E0314,Financeiro,Gestão,Híbrido,66
+E0315,Financeiro,Gestão,Remoto,94
+E0316,Financeiro,Gestão,Presencial,10
+E0317,Financeiro,Júnior,Presencial,8
+E0318,Atendimento,Júnior,Remoto,102
+E0319,Segurança da Informação,Júnior,Presencial,8
+E0320,Risco e Compliance,Pleno,Presencial,74
+E0321,RH,Júnior,Presencial,112
+E0322,Operações,Sênior,Híbrido,74
+E0323,Financeiro,Pleno,Remoto,58
+E0324,Operações,Pleno,Híbrido,50
+E0325,Comercial,Júnior,Híbrido,76
+E0326,Atendimento,Júnior,Presencial,69
+E0327,Comercial,Júnior,Híbrido,60
+E0328,Operações,Sênior,Híbrido,19
+E0329,Atendimento,Pleno,Presencial,79
+E0330,Segurança da Informação,Sênior,Presencial,89
+E0331,Atendimento,Júnior,Híbrido,85
+E0332,Tecnologia,Pleno,Presencial,9
+E0333,Atendimento,Pleno,Híbrido,84
+E0334,Jurídico,Sênior,Híbrido,87
+E0335,Tecnologia,Sênior,Presencial,22
+E0336,Atendimento,Júnior,Híbrido,102
+E0337,Tecnologia,Gestão,Híbrido,63
+E0338,Atendimento,Júnior,Híbrido,57
+E0339,Tecnologia,Sênior,Híbrido,87
+E0340,Risco e Compliance,Júnior,Híbrido,61
+E0341,Tecnologia,Júnior,Híbrido,65
+E0342,Risco e Compliance,Sênior,Presencial,38
+E0343,Comercial,Júnior,Híbrido,111
+E0344,Operações,Pleno,Presencial,116
+E0345,Comercial,Pleno,Híbrido,16
+E0346,Comercial,Júnior,Híbrido,88
+E0347,Risco e Compliance,Sênior,Presencial,3
+E0348,Segurança da Informação,Sênior,Híbrido,44
+E0349,Operações,Sênior,Híbrido,116
+E0350,Tecnologia,Júnior,Presencial,21
+E0351,Atendimento,Pleno,Presencial,45
+E0352,Tecnologia,Júnior,Híbrido,27
+E0353,Operações,Júnior,Híbrido,87
+E0354,Operações,Júnior,Híbrido,56
+E0355,Operações,Gestão,Presencial,71
+E0356,Operações,Sênior,Híbrido,113
+E0357,Comercial,Sênior,Remoto,63
+E0358,Comercial,Pleno,Híbrido,88
+E0359,Operações,Pleno,Híbrido,12
+E0360,Operações,Pleno,Remoto,26
+E0361,Risco e Compliance,Pleno,Remoto,113
+E0362,Tecnologia,Pleno,Híbrido,103
+E0363,Tecnologia,Júnior,Remoto,79
+E0364,Tecnologia,Júnior,Remoto,46
+E0365,Atendimento,Gestão,Híbrido,24
+E0366,Financeiro,Pleno,Híbrido,102
+E0367,Comercial,Gestão,Presencial,94
+E0368,Atendimento,Júnior,Presencial,29
+E0369,Financeiro,Pleno,Híbrido,71
+E0370,RH,Júnior,Híbrido,74
+E0371,Comercial,Júnior,Híbrido,57
+E0372,Segurança da Informação,Júnior,Híbrido,111
+E0373,Financeiro,Júnior,Híbrido,15
+E0374,Financeiro,Gestão,Híbrido,31
+E0375,Tecnologia,Júnior,Presencial,12
+E0376,Tecnologia,Pleno,Presencial,83
+E0377,Risco e Compliance,Pleno,Híbrido,77
+E0378,Operações,Pleno,Híbrido,118
+E0379,Financeiro,Pleno,Remoto,65
+E0380,Atendimento,Júnior,Remoto,18
+E0381,Operações,Gestão,Remoto,54
+E0382,Risco e Compliance,Sênior,Híbrido,11
+E0383,Comercial,Sênior,Híbrido,80
+E0384,Operações,Pleno,Presencial,81
+E0385,Financeiro,Júnior,Híbrido,103
+E0386,Risco e Compliance,Gestão,Remoto,41
+E0387,Atendimento,Júnior,Híbrido,37
+E0388,Risco e Compliance,Júnior,Híbrido,9
+E0389,Tecnologia,Júnior,Presencial,50
+E0390,Comercial,Sênior,Presencial,57
+E0391,Atendimento,Pleno,Presencial,90
+E0392,Tecnologia,Sênior,Presencial,90
+E0393,Operações,Sênior,Remoto,17
+E0394,Atendimento,Júnior,Híbrido,34
+E0395,Tecnologia,Gestão,Híbrido,61
+E0396,Operações,Pleno,Híbrido,40
+E0397,Comercial,Pleno,Presencial,4
+E0398,Segurança da Informação,Júnior,Presencial,101
+E0399,Operações,Gestão,Híbrido,88
+E0400,Operações,Júnior,Presencial,62
+E0401,Financeiro,Júnior,Remoto,38
+E0402,RH,Pleno,Presencial,101
+E0403,Comercial,Júnior,Híbrido,5
+E0404,Tecnologia,Júnior,Híbrido,54
+E0405,Risco e Compliance,Pleno,Presencial,96
+E0406,Jurídico,Pleno,Presencial,114
+E0407,Segurança da Informação,Gestão,Remoto,30
+E0408,Comercial,Júnior,Presencial,78
+E0409,Tecnologia,Sênior,Híbrido,23
+E0410,Risco e Compliance,Pleno,Híbrido,14
+E0411,Atendimento,Pleno,Presencial,43
+E0412,Atendimento,Pleno,Híbrido,106
+E0413,Tecnologia,Pleno,Híbrido,83
+E0414,RH,Gestão,Híbrido,59
+E0415,Tecnologia,Júnior,Híbrido,34
+E0416,Segurança da Informação,Júnior,Presencial,17
+E0417,Tecnologia,Pleno,Presencial,33
+E0418,Comercial,Sênior,Híbrido,19
+E0419,Tecnologia,Júnior,Remoto,23
+E0420,RH,Pleno,Presencial,82
+E0421,Atendimento,Sênior,Presencial,16
+E0422,Tecnologia,Sênior,Híbrido,6
+E0423,Tecnologia,Gestão,Híbrido,65
+E0424,Tecnologia,Pleno,Presencial,35
+E0425,Atendimento,Pleno,Híbrido,55
+E0426,Comercial,Júnior,Híbrido,17
+E0427,Tecnologia,Gestão,Híbrido,25
+E0428,Comercial,Pleno,Presencial,53
+E0429,Tecnologia,Sênior,Presencial,83
+E0430,Comercial,Pleno,Híbrido,50
+E0431,RH,Pleno,Híbrido,65
+E0432,Comercial,Sênior,Remoto,63
+E0433,Atendimento,Pleno,Híbrido,32
+E0434,Comercial,Gestão,Híbrido,34
+E0435,Tecnologia,Pleno,Remoto,51
+E0436,Tecnologia,Pleno,Híbrido,4
+E0437,Tecnologia,Júnior,Híbrido,82
+E0438,Operações,Pleno,Remoto,74
+E0439,Atendimento,Pleno,Presencial,37
+E0440,Atendimento,Júnior,Híbrido,45
+E0441,Comercial,Júnior,Híbrido,40
+E0442,Tecnologia,Pleno,Presencial,78
+E0443,Atendimento,Pleno,Híbrido,91
+E0444,Tecnologia,Pleno,Presencial,13
+E0445,Segurança da Informação,Júnior,Presencial,50
+E0446,Atendimento,Júnior,Híbrido,2
+E0447,Risco e Compliance,Júnior,Presencial,54
+E0448,Atendimento,Sênior,Híbrido,30
+E0449,Tecnologia,Sênior,Remoto,40
+E0450,Atendimento,Júnior,Híbrido,55
+E0451,Tecnologia,Pleno,Presencial,39
+E0452,Jurídico,Júnior,Presencial,47
+E0453,Atendimento,Júnior,Presencial,92
+E0454,Tecnologia,Júnior,Presencial,97
+E0455,Tecnologia,Júnior,Remoto,1
+E0456,Tecnologia,Pleno,Híbrido,45
+E0457,Risco e Compliance,Gestão,Presencial,101
+E0458,Operações,Júnior,Híbrido,64
+E0459,Comercial,Pleno,Híbrido,25
+E0460,Atendimento,Sênior,Presencial,71
+E0461,Operações,Gestão,Presencial,18
+E0462,Tecnologia,Pleno,Híbrido,3
+E0463,Risco e Compliance,Júnior,Híbrido,76
+E0464,Financeiro,Pleno,Presencial,62
+E0465,Operações,Júnior,Remoto,91
+E0466,Atendimento,Gestão,Remoto,42
+E0467,Atendimento,Pleno,Híbrido,102
+E0468,Risco e Compliance,Pleno,Presencial,51
+E0469,Tecnologia,Júnior,Presencial,88
+E0470,Operações,Pleno,Remoto,12
+E0471,Financeiro,Sênior,Híbrido,12
+E0472,Operações,Pleno,Híbrido,94
+E0473,Tecnologia,Pleno,Híbrido,100
+E0474,Tecnologia,Gestão,Presencial,113
+E0475,Segurança da Informação,Sênior,Híbrido,39
+E0476,Financeiro,Júnior,Remoto,3
+E0477,Operações,Pleno,Híbrido,117
+E0478,Atendimento,Pleno,Híbrido,72
+E0479,Atendimento,Pleno,Remoto,30
+E0480,Financeiro,Júnior,Híbrido,91
+E0481,Financeiro,Júnior,Híbrido,108
+E0482,Tecnologia,Gestão,Híbrido,34
+E0483,Operações,Gestão,Híbrido,92
+E0484,Financeiro,Sênior,Presencial,94
+E0485,Tecnologia,Gestão,Presencial,60
+E0486,Financeiro,Sênior,Presencial,76
+E0487,Operações,Sênior,Híbrido,33
+E0488,Tecnologia,Sênior,Híbrido,111
+E0489,Operações,Pleno,Híbrido,117
+E0490,Operações,Pleno,Híbrido,117
+E0491,Atendimento,Júnior,Híbrido,88
+E0492,Atendimento,Pleno,Remoto,6
+E0493,Atendimento,Júnior,Presencial,44
+E0494,Financeiro,Júnior,Híbrido,53
+E0495,Comercial,Pleno,Híbrido,115
+E0496,Operações,Pleno,Híbrido,66
+E0497,Operações,Júnior,Presencial,64
+E0498,Atendimento,Sênior,Híbrido,18
+E0499,Financeiro,Sênior,Remoto,95
+E0500,Operações,Júnior,Híbrido,41
+E0501,Atendimento,Júnior,Remoto,11
+E0502,Jurídico,Júnior,Remoto,118
+E0503,RH,Sênior,Híbrido,23
+E0504,Operações,Sênior,Híbrido,2
+E0505,Operações,Júnior,Híbrido,10
+E0506,Comercial,Sênior,Remoto,54
+E0507,Financeiro,Júnior,Presencial,13
+E0508,Comercial,Pleno,Híbrido,101
+E0509,Operações,Gestão,Remoto,61
+E0510,Tecnologia,Júnior,Presencial,39
+E0511,Tecnologia,Júnior,Híbrido,1
+E0512,Comercial,Pleno,Híbrido,58
+E0513,Tecnologia,Pleno,Remoto,19
+E0514,Segurança da Informação,Gestão,Remoto,117
+E0515,Financeiro,Gestão,Híbrido,35
+E0516,Tecnologia,Júnior,Híbrido,57
+E0517,Financeiro,Júnior,Híbrido,3
+E0518,Atendimento,Sênior,Híbrido,16
+E0519,Tecnologia,Júnior,Híbrido,25
+E0520,Comercial,Sênior,Híbrido,7
+E0521,Comercial,Pleno,Presencial,87
+E0522,Financeiro,Júnior,Presencial,113
+E0523,Tecnologia,Sênior,Híbrido,118
+E0524,Atendimento,Júnior,Híbrido,32
+E0525,Tecnologia,Pleno,Híbrido,94
+E0526,Financeiro,Pleno,Presencial,60
+E0527,Risco e Compliance,Pleno,Híbrido,6
+E0528,Risco e Compliance,Pleno,Remoto,11
+E0529,Comercial,Pleno,Presencial,66
+E0530,Financeiro,Gestão,Híbrido,51
+E0531,Atendimento,Gestão,Remoto,1
+E0532,Atendimento,Pleno,Presencial,111
+E0533,Financeiro,Júnior,Híbrido,87
+E0534,Atendimento,Sênior,Presencial,60
+E0535,Tecnologia,Gestão,Remoto,118
+E0536,Tecnologia,Júnior,Híbrido,116
+E0537,Operações,Pleno,Remoto,116
+E0538,Tecnologia,Pleno,Presencial,31
+E0539,Tecnologia,Júnior,Híbrido,105
+E0540,Comercial,Pleno,Híbrido,61
+E0541,Risco e Compliance,Pleno,Presencial,87
+E0542,Operações,Sênior,Presencial,103
+E0543,Comercial,Sênior,Presencial,20
+E0544,Risco e Compliance,Sênior,Remoto,54
+E0545,Tecnologia,Pleno,Híbrido,16
+E0546,Operações,Júnior,Híbrido,34
+E0547,Financeiro,Sênior,Híbrido,50
+E0548,Tecnologia,Sênior,Híbrido,102
+E0549,Atendimento,Pleno,Híbrido,103
+E0550,Operações,Sênior,Híbrido,47
+E0551,Operações,Júnior,Híbrido,40
+E0552,Tecnologia,Sênior,Presencial,64
+E0553,Tecnologia,Júnior,Remoto,109
+E0554,RH,Júnior,Híbrido,117
+E0555,Tecnologia,Pleno,Híbrido,27
+E0556,Tecnologia,Júnior,Híbrido,23
+E0557,Segurança da Informação,Júnior,Presencial,85
+E0558,Operações,Júnior,Remoto,36
+E0559,Operações,Pleno,Remoto,24
+E0560,Operações,Sênior,Remoto,4
+E0561,Tecnologia,Júnior,Híbrido,48
+E0562,Segurança da Informação,Pleno,Presencial,47
+E0563,Comercial,Sênior,Presencial,68
+E0564,Atendimento,Júnior,Presencial,24
+E0565,Atendimento,Júnior,Presencial,86
+E0566,Atendimento,Sênior,Presencial,81
+E0567,Comercial,Sênior,Remoto,56
+E0568,Tecnologia,Pleno,Presencial,22
+E0569,Financeiro,Sênior,Presencial,61
+E0570,Operações,Júnior,Híbrido,81
+E0571,Financeiro,Pleno,Híbrido,45
+E0572,Comercial,Sênior,Híbrido,32
+E0573,Operações,Júnior,Híbrido,61
+E0574,Comercial,Sênior,Remoto,43
+E0575,Comercial,Pleno,Híbrido,48
+E0576,Operações,Sênior,Híbrido,42
+E0577,RH,Pleno,Híbrido,37
+E0578,Operações,Pleno,Híbrido,86
+E0579,Comercial,Júnior,Híbrido,55
+E0580,Financeiro,Júnior,Híbrido,56
+E0581,Operações,Sênior,Presencial,78
+E0582,Operações,Júnior,Híbrido,43
+E0583,Tecnologia,Júnior,Presencial,13
+E0584,Financeiro,Júnior,Presencial,102
+E0585,RH,Júnior,Presencial,7
+E0586,Atendimento,Sênior,Híbrido,69
+E0587,Tecnologia,Pleno,Híbrido,32
+E0588,Financeiro,Gestão,Híbrido,26
+E0589,Tecnologia,Júnior,Remoto,5
+E0590,Tecnologia,Pleno,Presencial,108
+E0591,RH,Pleno,Híbrido,52
+E0592,Operações,Pleno,Híbrido,41
+E0593,Financeiro,Sênior,Presencial,89
+E0594,Operações,Gestão,Híbrido,5
+E0595,Tecnologia,Sênior,Remoto,68
+E0596,Segurança da Informação,Júnior,Presencial,59
+E0597,Atendimento,Júnior,Híbrido,66
+E0598,Atendimento,Pleno,Presencial,15
+E0599,Risco e Compliance,Júnior,Híbrido,114
+E0600,Atendimento,Sênior,Híbrido,29

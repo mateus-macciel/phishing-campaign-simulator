@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Simulate campaign (no e-mail is sent)
+        run: python src/simulate_campaign.py --employees 600 --seed 42 --out /tmp/data
+
+      - name: Analyse and render previews
+        run: |
+          python src/analyze.py --data /tmp/data --out output
+          python src/render_templates.py
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: campaign-reports
+          path: output/
